@@ -1,0 +1,337 @@
+<mjml>
+  <mj-head>
+    <mj-title>CPA.Club Connect</mj-title>
+    <mj-preview>CPA.Club Connect</mj-preview>
+    <mj-breakpoint width="450px" />
+    <mj-style>
+      .text p,
+      .text li {
+        font-family: "Verdana", Arial, sans-serif;
+        font-size: 14px;
+        line-height: 16.8px;
+        font-weight: 500;
+        color: #ffffff;
+        padding: 0;
+        margin: 0;
+      }
+
+      .text span {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19.2px;
+      }
+
+      .title p {
+        font-family: "Verdana", Arial, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19.2px;
+        color: #ffffff;
+        padding: 0;
+        margin: 0;
+      }
+
+      a {
+        font-family: "Verdana", Arial, sans-serif;
+        font-size: 14px;
+        line-height: 16.8px;
+        font-weight: 500;
+        color: #ffffff;
+        text-decoration: underline;
+      }
+
+      ul {
+        padding: 0;
+        padding-left: 10px;
+      }
+
+      .list p {
+        font-family: "Verdana", Arial, sans-serif;
+        font-size: 14px;
+        line-height: 21px;
+        font-weight: 500;
+        color: #ffffff;
+        padding: 0;
+        margin: 0;
+      }
+
+      .socials-group {
+        width: 147px !important;
+      }
+
+      td[class="social"] td {
+        padding: 0 !important;
+      }
+
+      @media screen and (max-width: 449px) {
+        .wrapper {
+          padding: 0px 10px;
+        }
+
+        .section-2 {
+          border-bottom-left-radius: 10px;
+          border-bottom-right-radius: 10px;
+        }
+
+        .socials-group {
+          width: 147px !important;
+        }
+      }
+
+      @media screen and (min-width: 450px) {
+        .wrapper {
+          padding: 0px 20px;
+        }
+
+        .section-2 {
+          border-bottom-left-radius: 10px;
+          border-bottom-right-radius: 10px;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#191919">
+    <mj-wrapper css-class="wrapper">
+      <mj-section background-color="#191919" padding="0px">
+        <mj-column>
+          <mj-image width="600px" align="center" padding="0" src="https://milarut.github.io/photos/img/bg-logo-600.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="section-2" background-color="#000000" padding="10px" padding-bottom="20px">
+        <mj-column>
+          <mj-text css-class="text">
+            <p>Добрый день! Вы оставили заявку на приобретение спонсорского пакета MeetUp Diamond Sponsor.</p>
+          </mj-text>
+          <mj-text css-class="text">
+            <p>Стоимость пакета: <span>€40 000</span></p>
+            <!-- 
+            <p>Стоимость пакета: <span>€20 000</span></p>
+            <p>Стоимость пакета: <span>€10 000</span></p>
+            <p>Стоимость пакета: <span>€5 000</span></p>
+            <p>Стоимость пакета: <span>€3 500</span></p>
+            <p>Стоимость пакета: <span>€2 500</span></p>
+            <p>Стоимость пакета: <span>€40 000</span></p>
+            <p>Стоимость пакета: <span>€25 000</span></p>
+            <p>Стоимость пакета: <span>€15 000</span></p>
+            <p>Стоимость пакета: <span>€10 000</span></p>
+            <p>Стоимость пакета: <span>€6 500</span></p>
+            <p>Стоимость пакета: <span>€4 000</span></p>
+            <p>Стоимость пакета: <span>€2 500</span></p> 
+            -->
+          </mj-text>
+          <mj-text css-class="title">
+            <p>MeetUp Diamond Sponsor</p>
+            <!-- 
+            <p>MeetUp Golden Sponsor</p>
+            <p>MeetUp Silver Sponsor</p>
+            <p>Coffee Break Sponsor</p>
+            <p>WiFi Sponsor</p>
+            <p>Charging Sponsor</p>
+            <p>Afterparty Diamond Sponsor</p>
+            <p>Entertainment Sponsor</p>
+            <p>DJ Sponsor</p>
+            <p>Bar Sponsor</p>
+            <p>Golden Tables Sponsor</p>
+            <p>Silver Tables Sponsor</p>
+            <p>Classic Tables Sponsor</p> 
+            -->
+          </mj-text>
+
+          <mj-text css-class="text">
+            <!-- MeetUp Diamond Sponsor -->
+            <ul>
+              <li>30 проходок на митап</li>
+              <li>10 проходок на афтепати</li>
+              <li>Доп. проходки со скидкой 25%</li>
+              <li>4 баннера на митапе</li>
+              <li>Брендированная фотозона</li>
+              <li>Брендированный фотоотчет</li>
+              <li>Брендированные подарочные пакеты</li>
+              <li>Брендированные браслеты</li>
+              <li>Мерч 5 единиц в пакетах для участников</li>
+              <li>Реклама бренда на сцене</li>
+              <li>Возможность провести свой розыгрыш</li>
+              <li>Реклама на сайте</li>
+              <li>Реклама в соцсетях</li>
+            </ul>
+
+            <!-- MeetUp Golden Sponsor -->
+            <!-- 
+            <ul>
+              <li>15 проходок на митап</li>
+              <li>Доп. проходки со скидкой 15%</li>
+              <li>2 баннера на митапе</li>
+              <li>Брендированный видео отчет</li>
+              <li>Мерч 4 единицы в пакетах для участников</li>
+              <li>Реклама бренда на сцене</li>
+              <li>Официанты в форме с логотипом партнера</li>
+              <li>Реклама на сайте</li>
+              <li>Реклама в соцсетях</li>
+              <li>Возможность поставить свою зону с активностью</li>
+            </ul>
+            -->
+
+            <!-- MeetUp Silver Sponsor -->
+            <!-- 
+            <ul>
+              <li>10 проходок на митап</li>
+              <li>1 баннер на митапе</li>
+              <li>Мерч 3 единицы в пакетах для участников</li>
+              <li>Реклама бренда на сцене</li>
+              <li>Реклама на сайте</li>
+              <li>Реклама в соцсетях</li>
+            </ul> 
+            -->
+
+            <!-- Coffee Break Sponsor -->
+            <!-- 
+            <ul>
+              <li>10 проходок на митап</li>
+              <li>1 баннер возле зоны кофе-брейка</li>
+              <li>Брендированная зона кофе-брейка</li>
+              <li>Буклеты спонсора в зоне кофе-брейка</li>
+            </ul>
+             -->
+
+            <!-- WiFi Sponsor -->
+            <!-- 
+            <ul>
+              <li>5 проходок на митап</li>
+              <li>Право быть эксклюзивным Wi-Fi спонсором мероприятия</li>
+              <li>Название компании будет отображаться как имя Wi-Fi. Формат: «AW WIFI от &lt;название вашей компании&gt;»</li>
+              <li>Выбор пользовательского пароля (до 10 символов)</li>
+              <li>Полностью брендированная страница входа в Wi-Fi</li>
+              <li>Брендинг спота на протяжении всего мероприятия</li>
+            </ul> 
+            -->
+
+            <!-- Charging Sponsor -->
+            <!-- 
+            <ul>
+              <li>5 проходок на митап</li>
+              <li>Брендированная станция fast charge</li>
+            </ul> 
+            -->
+
+            <!-- Afterparty Diamond Sponsor -->
+            <!-- 
+            <ul>
+              <li>20х проходок на афтепати</li>
+              <li>10х проходок на митап</li>
+              <li>2x VIP tables #259, #209</li>
+              <li>4 баннера</li>
+              <li>Видеоролик от спонсора на экране в полной тишине</li>
+              <li>Брендирование VIP столов</li>
+              <li>Брендированная фотозона</li>
+              <li>Брендированные браслеты</li>
+              <li>Официанты с логотипом компании на форме</li>
+              <li>Модели с логотипом спонсора на одежде</li>
+              <li>Объявление информации о компании ведущим</li>
+              <li>Реклама на сайте</li>
+              <li>Реклама в соцсетях</li>
+            </ul> 
+            -->
+
+            <!-- Entertainment Sponsor -->
+            <!--             
+            <ul>
+              <li>20х проходок на афтепати</li>
+              <li>2x Golden tables #356, #306</li>
+              <li>Танцовщицы с логотипом компании на одежде</li>
+              <li>Брендированные шары </li>
+              <li>Брендированные конфетти (листовки)</li>
+              <li>Объявление информации о компании ведущим</li>
+            </ul>
+            -->
+
+            <!-- DJ Sponsor -->
+            <!--             
+            <ul>
+              <li>20 проходок на афтепати</li>
+              <li>2х Silver tables #255, #205</li>
+              <li>DJ с логотипом компании на одежде</li>
+              <li>Экран над диджеем для видеороликов компании</li>
+              <li>Возможность заказать музыку (2 трека)</li>
+            </ul> 
+            -->
+
+            <!-- Bar Sponsor -->
+            <!-- 
+            <ul>
+              <li>20 проходок на афтепати</li>
+              <li>2х Classic tables #107, #106</li>
+              <li>Бармены с логотипом спонсора на одежде</li>
+              <li>Брендированное меню</li>
+              <li>Персонализованные названия напитков</li>
+              <li>Брендированные зонтики в коктейли</li>
+            </ul> 
+            -->
+
+            <!-- Golden Tables Sponsor -->
+            <!-- 
+            <ul>
+              <li>10 проходок на афтепати</li>
+              <li>1х Golden table #355</li>
+              <li>Брендирование всех Golden tables 12 шт</li>
+            </ul> 
+            -->
+
+            <!-- Silver Tables Sponsor -->
+            <!-- 
+            <ul>
+              <li>10 проходок на афтепати</li>
+              <li>1х Silver table #254</li>
+              <li>Брендирование всех Silver tables 14 шт</li>
+            </ul> 
+            -->
+
+            <!-- Classic Tables Sponsor -->
+            <!-- 
+            <ul>
+              <li>5 проходок на афтепати</li>
+              <li>1х Classic table #105</li>
+              <li>Брендирование всех Classic tables 14 шт</li>
+            </ul> 
+            -->
+
+          </mj-text>
+          <mj-text css-class="text">
+            <p>Наш Head of Sales Гурген свяжется с вами в ближайшее время! Если вы не хотите ждать ни минуты больше, пожалуйста, свяжитесь с ним <a href="https://t.me/GurgenSar" css-class="link">в Телеграме</a>.</p>
+          </mj-text>
+          <mj-text css-class="text">
+            <p>Ваша команда <a href="https://cpa.club/" css-class="link">CPA Club</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#191919">
+        <mj-group css-class="socials-group" width="147px">
+          <mj-column padding-right="0px">
+            <mj-button background-color="transparent" padding="0" css-class="social" href="#">
+              <img src="https://milarut.github.io/photos/img/socials-1-tw.png" width="27px" />
+            </mj-button>
+          </mj-column>
+          <mj-column padding-right="0px">
+            <mj-button background-color="transparent" padding="0" css-class="social" href="https://www.facebook.com/cpaclub1">
+              <img src="https://milarut.github.io/photos/img/socials-2-fb.png" width="23px" />
+            </mj-button>
+          </mj-column>
+          <mj-column padding-right="0px">
+            <mj-button background-color="transparent" padding="0" css-class="social" href="https://www.linkedin.com/company/cpa-club">
+              <img src="https://milarut.github.io/photos/img/socials-3-li.png" width="23px" />
+            </mj-button>
+          </mj-column>
+          <mj-column padding-right="0px">
+            <mj-button background-color="transparent" padding="0" css-class="social" href="https://www.instagram.com/cpa_club/">
+              <img src="https://milarut.github.io/photos/img/socials-4-ig.png" width="23px" />
+            </mj-button>
+          </mj-column>
+          <mj-column>
+            <mj-button background-color="transparent" padding="0" css-class="social" href="https://t.me/cpaclubmain">
+              <img src="https://milarut.github.io/photos/img/socials-5-tg.png" width="24px" />
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
